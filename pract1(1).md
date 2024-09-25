@@ -5,32 +5,22 @@
 Научиться выполнять простые действия с файлами и каталогами в Linux из командной строки. Сравнить работу в командной строке Windows и Linux.
 
 ## Задача 1
+<img width="1440" alt="Снимок экрана 2024-09-25 в 14 53 34" src="https://github.com/user-attachments/assets/a9de5043-ca0f-4dd3-8744-d07604ad7dac">
 
-Вывести отсортированный в алфавитном порядке список имен пользователей в файле passwd (вам понадобится grep).
+
 
 ## Задача 2
 
 Вывести данные /etc/protocols в отформатированном и отсортированном порядке для 5 наибольших портов, как показано в примере ниже:
+<img width="596" alt="Снимок экрана 2024-09-25 в 15 00 14" src="https://github.com/user-attachments/assets/4176648c-8f7a-4988-9ede-2d4f37551a57">
 
-```
-[root@localhost etc]# cat /etc/protocols ...
-142 rohc
-141 wesp
-140 shim6
-139 hip
-138 manet
-```
+
 
 ## Задача 3
 
 Написать программу banner средствами bash для вывода текстов, как в следующем примере (размер баннера должен меняться!):
 
-```
-[root@localhost ~]# ./banner "Hello from RTU MIREA!"
-+-----------------------+
-| Hello from RTU MIREA! |
-+-----------------------+
-```
+<img width="209" alt="Снимок экрана 2024-09-25 в 15 05 22" src="https://github.com/user-attachments/assets/73eab899-7f75-4229-9429-1c0333d7be9f">
 
 Перед отправкой решения проверьте его в ShellCheck на предупреждения.
 
@@ -38,11 +28,8 @@
 
 Написать программу для вывода всех идентификаторов (по правилам C/C++ или Java) в файле (без повторений).
 
-Пример для hello.c:
+<img width="500" alt="Снимок экрана 2024-09-25 в 17 00 30" src="https://github.com/user-attachments/assets/35b04326-a88e-42c7-b4c9-9c31f8c4f459">
 
-```
-h hello include int main n printf return stdio void world
-```
 
 ## Задача 5
 
