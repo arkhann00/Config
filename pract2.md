@@ -8,9 +8,9 @@
 
 Вывести служебную информацию о пакете matplotlib (Python). Разобрать основные элементы содержимого файла со служебной информацией из пакета. Как получить пакет без менеджера пакетов, прямо из репозитория?
 
-<img width="1000" alt="Снимок экрана 2024-09-25 в 17 23 04" src="https://github.com/user-attachments/assets/807089a3-1019-4b7a-bf2e-1c0411491e4e">
+<img width="582" alt="Снимок экрана 2024-10-02 в 16 46 15" src="https://github.com/user-attachments/assets/60e1b4ae-9b4a-4705-bbae-bcdba1aabfe9">
+<img width="1182" alt="Снимок экрана 2024-10-02 в 16 46 19" src="https://github.com/user-attachments/assets/e9d92a6c-f394-444c-9a3a-99b3434e38ea">
 
-<img width="808" alt="Снимок экрана 2024-09-25 в 17 23 26" src="https://github.com/user-attachments/assets/48046ce2-1328-4149-b7e8-fc69da55a42a">
 
 
 ## Задача 2
